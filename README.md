@@ -1,7 +1,7 @@
 # Solastanomicon
 
 Solastanomicon is a simple mod that adds more random player character names to Solasta:Crown of the Magister. 
-It adds 177 individual name elements bringing the totals for each race in the base game to 20 female names, 20 male names, and 20 surnames.
+
 
 # How to Compile
 
